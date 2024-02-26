@@ -1,0 +1,25 @@
+{
+  "name": "nextgasp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@studio-freight/react-lenis": "^0.0.43",
+    "framer-motion": "^10.18.0",
+    "gsap": "^3.12.4",
+    "locomotive-scroll": "^4.1.4",
+    "next": "14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1.70.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4"
+  }
+}
